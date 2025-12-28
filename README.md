@@ -1,7 +1,7 @@
 <img src="https://github.com/robert1chi/robert1chi/blob/main/pjsk.JPG" />
 
 ### About me
-<img align="right" src="https://github-readme-stats-mu-azure.vercel.app/api/top-langs/?username=robert1chi&layout=compact" />
+<img align="left" src="https://github-readme-stats-mu-azure.vercel.app/api/top-langs/?username=robert1chi&layout=compact" />
 
 <!--
 **robert1chi/robert1chi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
